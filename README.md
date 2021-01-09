@@ -12,9 +12,7 @@ Permainan akan dimulai ketika memencet button start. Pemain akan diberikan sampa
 |3 | Fathu Rizka       (G64180104) | Fullstack                            |
 
 # SCREENSHOT
-
-![game1](https://user-images.githubusercontent.com/49060973/104083491-acded980-5271-11eb-9248-d888a84a6973.PNG)
-![help](https://user-images.githubusercontent.com/49060973/104083494-b36d5100-5271-11eb-981b-9067a983863a.PNG)
-![game](https://user-images.githubusercontent.com/49060973/104083504-b700d800-5271-11eb-9f3e-2a68fa15a457.PNG)
-![gamesover](https://user-images.githubusercontent.com/49060973/104083507-b9fbc880-5271-11eb-8ca9-1fe4faef72cb.PNG)
-
+![gm1](https://user-images.githubusercontent.com/49060973/104083857-c0d80a80-5274-11eb-9333-f7eb3d5691a8.PNG)
+![help](https://user-images.githubusercontent.com/49060973/104083864-c6cdeb80-5274-11eb-816c-64a883319989.PNG)
+![gmplay](https://user-images.githubusercontent.com/49060973/104083868-ca617280-5274-11eb-8dfa-1b92e7ab884b.PNG)
+![gmove](https://user-images.githubusercontent.com/49060973/104083870-ccc3cc80-5274-11eb-930b-828d3b1ffd65.PNG)
