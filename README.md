@@ -18,6 +18,38 @@ Menangkap sampah sebanyak banyaknya tanpa mengenai bom, tanpa adanya batas waktu
 + Menekan A atau D di Keyboard
 + Menekan panah kiri atau kanan di keyboard
 
+# TEKNOLOGI YANG DIGUNAKAN
+<table>
+    <tr>
+        <th>Teknologi</th>
+        <th>Fungsi</th> 
+    <tr>
+    <tr>
+        <td>Unity 2019.4.13f1</td>
+        <td>Game Engine</td>
+    </tr>
+    <tr>
+        <td>UnityHub 2.4.2</td>
+        <td>Mengkolaborasikan project</td>
+    </tr>
+    <tr>
+        <td>Visual Studio Code</td>
+        <td>Text editor script C#</td>
+    </tr>
+    <tr>
+        <td>Figma</td>
+        <td>Membuat asset game</td>
+    </tr>
+    <tr>
+        <td>Adobe Ilustrator</td>
+        <td>Membuat asset game</td>
+    </tr>
+    <tr>
+        <td>Github</td>
+        <td>Dokumentasi project</td>
+    </tr>
+</table>
+
 # SCREENSHOT
 ![gm1](https://user-images.githubusercontent.com/49060973/104083857-c0d80a80-5274-11eb-9333-f7eb3d5691a8.PNG)
 ![help](https://user-images.githubusercontent.com/49060973/104083864-c6cdeb80-5274-11eb-816c-64a883319989.PNG)
