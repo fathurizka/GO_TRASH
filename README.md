@@ -12,9 +12,9 @@ Permainan akan dimulai ketika memencet button start. Pemain akan diberikan sampa
 |3 | Fathu Rizka       (G64180104) | Fullstack                            |
 
 # GOALS
-Menangkap sampah sebanyak banyaknya tanpa mengenai bom tanpa batas waktu yang ditentukan
+Menangkap sampah sebanyak banyaknya tanpa mengenai bom, tanpa adanya batas waktu yang ditentukan
 
-#ACTION
+# ACTION
 + Menekan A atau D di Keyboard
 + Menekan panah kiri atau kanan di keyboard
 
